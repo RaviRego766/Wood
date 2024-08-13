@@ -1,0 +1,5 @@
+type: Floor
+name: Wood
+description: A floor consisting of red sand. Mineable for Red Sand.
+itemDrop: wood
+variants: 3
