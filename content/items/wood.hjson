@@ -1,0 +1,13 @@
+name: Wood
+color: e7cfb4
+
+research: {
+    parent:copper
+    requirements:
+    [
+        {item: graphite, amount: 8000},
+        {item: copper, amount: 15000},
+        {item: lead, amount: 15000},
+        {item: titanium, amount: 5000}
+    ]
+}
